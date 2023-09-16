@@ -11,3 +11,4 @@ rl.on('line', function (line) {
 }).on('close', function () {
     console.log(Number(input[0]) + Number(input[1]));
 });
+// 컨트롤 + ? 는  주석
